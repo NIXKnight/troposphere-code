@@ -4,7 +4,7 @@ awscli==1.16.47
 backcall==0.1.0
 boto3==1.9.37
 botocore==1.12.37
-certifi==2018.10.15
+certifi==2022.12.7
 cfn-flip==1.0.3
 cfn-lint==0.8.3
 chardet==3.0.4
